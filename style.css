@@ -1,0 +1,71 @@
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	background-color: #333;
+	overflow: hidden;
+}
+
+li {
+	float: left;
+}
+
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+li a:hover {
+	background-color: #111;
+}
+
+	  body {
+	  	font-family: Arial, sans-serif;
+	  	line-height: 1.6;
+	  	margin: 0;
+	  	padding: 0;
+	  	background-color: #f7f7f7;
+	  }
+	
+	  /* Style pour l'en-tête */
+	  header {
+	  	background-color: #333;
+	  	color: #fff;
+	  	text-align: center;
+	  	padding: 1em;
+	  }
+	
+	  /* Style pour la barre de navigation */
+	  nav {
+	  	background-color: #444;
+	  	text-align: center;
+	  	padding: 0.5em;
+	  }
+	
+	  nav a {
+	  	color: #fff;
+	  	text-decoration: none;
+	  	margin: 0 1em;
+	  }
+	
+	  /* Style pour la section principale du portfolio */
+	  section {
+	  	padding: 2em;
+	  }
+	
+	  .project {
+	  	border: 1px solid #ddd;
+	  	padding: 1em;
+	  	margin-bottom: 1em;
+	  }
+	
+	  /* Style pour le pied de page */
+	  footer {
+	  	background-color: #333;
+	  	color: #fff;
+	  	text-align: center;
+	  	padding: 1em;
+	  }
